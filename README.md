@@ -4,4 +4,4 @@ Image and Text classification using Ada-boost and Support Vector Machine (SVM) a
 The image dataset consists of three classes of images, including cars, bikes and people in real world settings.
 The text dataset consists of movie reviews with the sentiments labels which are either positive or negative.
 
-Cross-validation results presented in Report.
+Cross-validation results presented in report.
